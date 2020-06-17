@@ -45,20 +45,20 @@ By adding up a more stringent criterion can reduce the number of iterations requ
 
 ### Implementation
 
-
+///stay tuned ///
 
 ### Test cases
 There are seven scenarios, which are Single Cube/Window/Maze/Flappy Bird/Room/Tower/Monza.
 
 ### Results
 
-| <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/default.png" width="150"> | <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/default2.png" width="150"> | <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/flappy1.png" width="150"> | <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/flappy2.png" width="150"> |
+| <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/default.png" width="160"> | <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/default2.png" width="160"> | <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/flappy1.png" width="160"> | <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/flappy2.png" width="160"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                       **Single Cube**                        |                                                              |                       **Flappy Bird**                        |                                                              |
-| <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/room2.png" width="150"> | <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/room1.png" width="150"> | <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/monza2.png" width="150"> | <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/monza1.png" width="150"> |
+| <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/room2.png" width="160"> | <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/room1.png" width="160"> | <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/monza2.png" width="160"> | <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/monza1.png" width="160"> |
 |                           **Room**                           |                                                              |                          **Monza**                           |                                                              |
-| <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/window1.png" width="150"> | <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/window2.png" width="150"> | <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/tower.png" width="150"> | <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/tower2.png" width="150"> |
+| <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/window1.png" width="160"> | <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/window2.png" width="160"> | <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/tower.png" width="160"> | <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/tower2.png" width="160"> |
 |                          **Window**                          |                                                              |                          **Tower**                           |                                                              |
-| <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/maze1.png" width="150"> | <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/maze2.png" width="150"> |                                                              |                                                              |
+| <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/maze1.png" width="160"> | <img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/maze2.png" width="160"> |                                                              |                                                              |
 |                           **Maze**                           |                                                              |                                                              |                                                              |
 
