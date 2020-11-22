@@ -45,7 +45,7 @@ By adding up a more stringent criterion can reduce the number of iterations requ
 
 ### Implementation
 
-///stay tuned ///
+Read [my report](https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/report.pdf) for more detailed information
 
 ### Test cases
 There are seven scenarios, which are Single Cube/Window/Maze/Flappy Bird/Room/Tower/Monza.
