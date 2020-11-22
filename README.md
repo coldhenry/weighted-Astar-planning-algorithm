@@ -1,6 +1,6 @@
 # Weighted A* Planning Algorithm
 
-<img src="https://github.com/coldhenry/Dynamic-Programming-and-Markov-Processes/blob/master/pic/env.png" width="120">
+<img src="https://github.com/coldhenry/weighted-Astar-planning-algorithm/blob/master/pic/show.png" width="360">
 
 ## Introduction
 
